@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.orange.myorange.obe",
-    "sha256_cert_fingerprints":
-    ["33:7D:0D:D8:D5:22:2A:10:32:BD:FA:92:4C:CC:45:97:34:D4:7D:E9:F5:BD:C7:40:65:1E:7F:91:4C:B1:24:AC"]
-  }
-}]
